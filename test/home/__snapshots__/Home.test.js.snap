@@ -39,7 +39,7 @@ exports[`Home should render 1`] = `
                                   <b classes={{...}} />
                                 </WithStyles(b)>
                                 <h1>
-                                  This is a THIRD test
+                                  This is a Feature 1 test
                                 </h1>
                               </h6>
                             </Typography>

@@ -22,6 +22,7 @@ export default class Home extends Component {
         <Row>
           <Typography variant="subtitle1">
             <CmsSlot>{ app.welcomeMessage }</CmsSlot>
+            <h1>This is a test</h1>
           </Typography>
         </Row>
       </Container> 
